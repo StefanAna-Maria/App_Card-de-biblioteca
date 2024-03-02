@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673966126 source:c:\users\anama\desktop\facultate\moartea pasiunii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
